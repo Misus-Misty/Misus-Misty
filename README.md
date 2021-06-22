@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Misus-Misty
+- 👋 Hi, I’m Misty
 - 👀 I’m interested in machine learning and coding.
 - 🌱 I’m currently learning phython and c++
 - 💞️ I’m looking to collaborate on ...
