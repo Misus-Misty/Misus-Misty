@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Misty
 - 👀 I’m interested in machine learning and coding.
-- 🌱 I’m currently learning phython and c++
+- 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on...idk miself 😅
 - 📫 How to reach me: Telegram ID @This_is_just_a_random_text
 
