@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and coding.
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on...idk miself 😅
-- 📫 How to reach me: Telegram ID @This_is_just_a_random_text
+- 📫 How to reach me: Telegram ID @GoldenParleG
 
 <!---
 Misus-Misty/Misus-Misty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
